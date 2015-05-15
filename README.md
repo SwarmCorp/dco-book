@@ -1,2 +1,2 @@
-# dco-book
-DCO Book
+# DCO Book
+
