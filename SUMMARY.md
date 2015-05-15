@@ -1,3 +1,3 @@
 # Summary
 
-* [dco-step-by-step](dco-step-by-step)
+* [DCO Step By Step](dco-step-by-step)
