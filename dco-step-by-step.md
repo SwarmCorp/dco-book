@@ -1,4 +1,4 @@
-# DCO Ste by Step
+# DCO Step by Step
 
 (move content here)
 
